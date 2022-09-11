@@ -1,4 +1,4 @@
-<h3 align="left"> How To Run </h3>
+<h3 align="left"> How To Run The Project</h3>
 
 - Clone the project
 - Start docker
